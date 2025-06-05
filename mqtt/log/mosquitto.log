@@ -1,0 +1,20 @@
+1748958092: mosquitto version 2.0.21 starting
+1748958092: Config loaded from /mosquitto/config/mosquitto.conf.
+1748958092: Warning: File /mosquitto/config/pwfile has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/pwfile`.
+1748958092: Opening ipv4 listen socket on port 1883.
+1748958092: Opening ipv6 listen socket on port 1883.
+1748958092: mosquitto version 2.0.21 running
+1748958663: New connection from 172.18.0.1:43846 on port 1883.
+1748958663: New client connected from 172.18.0.1:43846 as auto-290FECC6-F020-DC63-E64F-7D9CCBB32B35 (p2, c1, k60, u'ricopol').
+1748958736: Client auto-290FECC6-F020-DC63-E64F-7D9CCBB32B35 closed its connection.
+1748958774: New connection from 172.18.0.1:38640 on port 1883.
+1748958774: New client connected from 172.18.0.1:38640 as auto-84E16C84-0715-CA7E-5BA8-5B7F9715DAE4 (p2, c1, k60, u'ricopol').
+1748958882: Client auto-84E16C84-0715-CA7E-5BA8-5B7F9715DAE4 disconnected.
+1748959893: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748961694: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748963495: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748965296: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748967097: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748968898: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748970699: Saving in-memory database to /mosquitto/data//mosquitto.db.
