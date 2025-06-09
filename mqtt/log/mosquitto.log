@@ -18,3 +18,100 @@ To fix this, use `chmod 0700 /mosquitto/config/pwfile`.
 1748967097: Saving in-memory database to /mosquitto/data//mosquitto.db.
 1748968898: Saving in-memory database to /mosquitto/data//mosquitto.db.
 1748970699: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749402125: mosquitto version 2.0.21 starting
+1749402125: Config loaded from /mosquitto/config/mosquitto.conf.
+1749402125: Warning: File /mosquitto/config/pwfile has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/pwfile`.
+1749402125: Opening ipv4 listen socket on port 1883.
+1749402125: Opening ipv6 listen socket on port 1883.
+1749402125: mosquitto version 2.0.21 running
+1749402127: New connection from 172.19.0.1:34176 on port 1883.
+1749402127: New client connected from 172.19.0.1:34176 as ESP32Client (p2, c1, k15, u'ricopol').
+1749403743: New connection from 172.19.0.1:43944 on port 1883.
+1749403743: Client ESP32Client already connected, closing old connection.
+1749403743: New client connected from 172.19.0.1:43944 as ESP32Client (p2, c1, k15, u'ricopol').
+1749403926: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749404641: Client ESP32Client has exceeded timeout, disconnecting.
+1749405159: mosquitto version 2.0.21 terminating
+1749405159: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749405361: mosquitto version 2.0.21 starting
+1749405361: Config loaded from /mosquitto/config/mosquitto.conf.
+1749405361: Warning: File /mosquitto/config/pwfile has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/pwfile`.
+1749405361: Opening ipv4 listen socket on port 1883.
+1749405361: Opening ipv6 listen socket on port 1883.
+1749405361: mosquitto version 2.0.21 running
+1749405630: New connection from 172.18.0.1:59644 on port 1883.
+1749405630: New client connected from 172.18.0.1:59644 as ESP32Client (p2, c1, k15, u'ricopol').
+1749406146: Client ESP32Client has exceeded timeout, disconnecting.
+1749406150: New connection from 172.18.0.1:36514 on port 1883.
+1749406150: New client connected from 172.18.0.1:36514 as ESP32Client (p2, c1, k15, u'ricopol').
+1749407162: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749407464: New connection from 172.18.0.1:34952 on port 1883.
+1749407464: New client connected from 172.18.0.1:34952 as auto-C17E1E25-BCF9-FA84-7147-8B42DC96A6A1 (p2, c1, k60, u'ricopol').
+1749407802: Client auto-C17E1E25-BCF9-FA84-7147-8B42DC96A6A1 disconnected.
+1749408873: Client ESP32Client has exceeded timeout, disconnecting.
+1749408963: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749411008: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749412921: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749413616: New connection from 172.18.0.1:34168 on port 1883.
+1749413616: New client connected from 172.18.0.1:34168 as ESP32Client (p2, c1, k15, u'ricopol').
+1749413836: New connection from 172.18.0.1:50800 on port 1883.
+1749413836: New client connected from 172.18.0.1:50800 as auto-74793B52-13DA-357C-707A-F63A6C73650D (p2, c1, k60, u'ricopol').
+1749413852: Client auto-74793B52-13DA-357C-707A-F63A6C73650D disconnected.
+1749413878: New connection from 172.18.0.1:44894 on port 1883.
+1749413878: Client ESP32Client already connected, closing old connection.
+1749413878: New client connected from 172.18.0.1:44894 as ESP32Client (p2, c1, k15, u'ricopol').
+1749413985: Client ESP32Client has exceeded timeout, disconnecting.
+1749414722: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749414746: New connection from 172.18.0.1:48452 on port 1883.
+1749414746: New client connected from 172.18.0.1:48452 as ESP32Client (p2, c1, k15, u'ricopol').
+1749414938: New connection from 172.18.0.1:34706 on port 1883.
+1749414938: New client connected from 172.18.0.1:34706 as auto-98DDC783-78C8-B3E1-7E27-AA189E9FEBCF (p2, c1, k60, u'ricopol').
+1749414997: New connection from 172.18.0.1:49068 on port 1883.
+1749414997: New client connected from 172.18.0.1:49068 as auto-15071833-A604-5674-2814-646E04574A39 (p2, c1, k60, u'ricopol').
+1749415035: Client auto-15071833-A604-5674-2814-646E04574A39 closed its connection.
+1749416247: Client ESP32Client closed its connection.
+1749416250: New connection from 172.18.0.1:45252 on port 1883.
+1749416251: New client connected from 172.18.0.1:45252 as ESP32Client (p2, c1, k15, u'ricopol').
+1749417450: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749417450: Client ESP32Client has exceeded timeout, disconnecting.
+1749417450: Client auto-98DDC783-78C8-B3E1-7E27-AA189E9FEBCF has exceeded timeout, disconnecting.
+1749417452: New connection from 172.18.0.1:45254 on port 1883.
+1749417452: New client connected from 172.18.0.1:45254 as auto-5ACFF115-F7E7-2C18-3CBE-6776DEB95C44 (p2, c1, k60, u'ricopol').
+1749417454: New connection from 172.18.0.1:45266 on port 1883.
+1749417454: New client connected from 172.18.0.1:45266 as ESP32Client (p2, c1, k15, u'ricopol').
+1749417483: Client ESP32Client has exceeded timeout, disconnecting.
+1749420240: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749420240: Client auto-5ACFF115-F7E7-2C18-3CBE-6776DEB95C44 has exceeded timeout, disconnecting.
+1749420241: New connection from 172.18.0.1:44386 on port 1883.
+1749420241: New client connected from 172.18.0.1:44386 as auto-9EFE48BB-060E-7004-E3D1-974E2380348F (p2, c1, k60, u'ricopol').
+1749422041: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749422417: New connection from 172.18.0.1:54488 on port 1883.
+1749422417: New client connected from 172.18.0.1:54488 as ESP32Client (p2, c1, k15, u'ricopol').
+1749422466: New connection from 172.18.0.1:60362 on port 1883.
+1749422466: New client connected from 172.18.0.1:60362 as auto-715DEC18-41B1-D202-86CE-255E54EC8838 (p2, c1, k60, u'ricopol').
+1749422678: New connection from 172.18.0.1:59526 on port 1883.
+1749422678: Client ESP32Client already connected, closing old connection.
+1749422678: New client connected from 172.18.0.1:59526 as ESP32Client (p2, c1, k15, u'ricopol').
+1749423029: Client auto-715DEC18-41B1-D202-86CE-255E54EC8838 closed its connection.
+1749423051: New connection from 172.18.0.1:42612 on port 1883.
+1749423051: New client connected from 172.18.0.1:42612 as auto-E0E1F4EF-30B8-5133-A00C-E2BE13E891E9 (p2, c1, k60, u'ricopol').
+1749423067: Client auto-E0E1F4EF-30B8-5133-A00C-E2BE13E891E9 closed its connection.
+1749423141: New connection from 172.18.0.1:35158 on port 1883.
+1749423141: New client connected from 172.18.0.1:35158 as auto-8B9D9C83-794E-F0A2-9B37-E6F8A356EAB7 (p2, c1, k60, u'ricopol').
+1749423215: Client auto-8B9D9C83-794E-F0A2-9B37-E6F8A356EAB7 disconnected.
+1749423449: New connection from 172.18.0.1:41510 on port 1883.
+1749423449: New client connected from 172.18.0.1:41510 as auto-D87CEA1A-CE68-28C4-CA98-11F035F19B72 (p2, c1, k60, u'ricopol').
+1749423472: Client auto-D87CEA1A-CE68-28C4-CA98-11F035F19B72 disconnected.
+1749423624: New connection from 172.18.0.1:55548 on port 1883.
+1749423624: New client connected from 172.18.0.1:55548 as auto-1AAF9F46-5714-7F78-871B-F8C11316B71C (p2, c1, k60, u'ricopol').
+1749423842: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749424028: Client auto-1AAF9F46-5714-7F78-871B-F8C11316B71C disconnected.
+1749424062: New connection from 172.18.0.1:37312 on port 1883.
+1749424062: New client connected from 172.18.0.1:37312 as auto-D82F0629-A630-F268-FBB0-7DE24A1D31DB (p2, c1, k60, u'ricopol').
+1749424811: Client auto-D82F0629-A630-F268-FBB0-7DE24A1D31DB disconnected.
+1749424844: Client ESP32Client has exceeded timeout, disconnecting.
+1749424886: Client auto-9EFE48BB-060E-7004-E3D1-974E2380348F disconnected.
+1749425643: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749453715: Saving in-memory database to /mosquitto/data//mosquitto.db.
