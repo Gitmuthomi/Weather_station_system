@@ -14,10 +14,10 @@
 #define LORA_BAND  860E6
 
 /* ---------- WiFi & MQTT Configuration ---------- */
-const char* ssid = "wifi username";
-const char* password = "wifi password";
+const char* ssid = "Eric's iPhone";
+const char* password = "Uzitombaya";
 
-const char* mqtt_server = "device IP";
+const char* mqtt_server = "172.20.10.7";
 const int mqtt_port = 1883;
 const char* mqtt_user = "ricopol";
 const char* mqtt_pass = "ricopol";
