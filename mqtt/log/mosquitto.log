@@ -294,3 +294,27 @@ To fix this, use `chmod 0700 /mosquitto/config/pwfile`.
 1749684726: Saving in-memory database to /mosquitto/data//mosquitto.db.
 1749714052: Saving in-memory database to /mosquitto/data//mosquitto.db.
 1749715853: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749717654: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749719455: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749721256: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749723057: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749724858: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749726659: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749728460: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749738888: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749748440: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749750241: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749752042: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749753843: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749754602: New connection from 172.18.0.1:54264 on port 1883.
+1749754602: New client connected from 172.18.0.1:54264 as auto-AEAF3681-FED0-2314-372A-EFD71BF79048 (p2, c1, k60, u'ricopol').
+1749755644: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749755709: Client auto-AEAF3681-FED0-2314-372A-EFD71BF79048 disconnected.
+1749755724: New connection from 172.18.0.1:46174 on port 1883.
+1749755724: New client connected from 172.18.0.1:46174 as auto-84E71BD8-5F08-1733-BD11-3CC54A5B9CE0 (p2, c1, k60, u'ricopol').
+1749756006: New connection from 172.18.0.1:53984 on port 1883.
+1749756006: New client connected from 172.18.0.1:53984 as LoRaBridge (p2, c1, k15, u'ricopol').
+1749756494: Client auto-84E71BD8-5F08-1733-BD11-3CC54A5B9CE0 closed its connection.
+1749756494: Client LoRaBridge closed its connection.
+1749761837: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749763638: Saving in-memory database to /mosquitto/data//mosquitto.db.
