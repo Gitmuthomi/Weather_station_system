@@ -27,7 +27,7 @@ def on_message(client, userdata, msg):
     try:
         data = json.loads(msg.payload.decode())
         now = time.time() - start_time
-        temps.append(data["temperature"])
+        temps.append(data["temperature_c"])
         hums.append(data["humidity"])
         timestamps.append(now)
     except Exception as e:
@@ -51,7 +51,7 @@ hum_line, = ax2.plot([], [], 'b-', label="Humidity (%)")
 ax1.set_ylabel('Temperature (°C)', color='r')
 ax2.set_ylabel('Humidity (%)', color='b')
 ax1.set_xlabel('Time (min)')
-ax1.set_ylim(0, 50)
+ax1.set_ylim(10, 40)
 ax2.set_ylim(0, 100)
 
 def update(frame):
