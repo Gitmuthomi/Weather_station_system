@@ -115,3 +115,182 @@ To fix this, use `chmod 0700 /mosquitto/config/pwfile`.
 1749424886: Client auto-9EFE48BB-060E-7004-E3D1-974E2380348F disconnected.
 1749425643: Saving in-memory database to /mosquitto/data//mosquitto.db.
 1749453715: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749455516: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749457317: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749459118: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749460919: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749462720: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749464521: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749466322: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749477450: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749479251: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749482187: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749482916: New connection from 172.18.0.1:49144 on port 1883.
+1749482916: New client connected from 172.18.0.1:49144 as ESP32Client (p2, c1, k15, u'ricopol').
+1749483015: New connection from 172.18.0.1:47038 on port 1883.
+1749483015: New client connected from 172.18.0.1:47038 as auto-20624A1E-55B9-F881-C2B2-8ED44ADEB213 (p2, c1, k60, u'ricopol').
+1749483127: New connection from 172.18.0.1:41120 on port 1883.
+1749483127: New client connected from 172.18.0.1:41120 as auto-D6E42B7B-B0B4-E069-68A1-13E5E4D46236 (p2, c1, k60, u'ricopol').
+1749483595: Client auto-D6E42B7B-B0B4-E069-68A1-13E5E4D46236 closed its connection.
+1749483620: New connection from 172.18.0.1:51488 on port 1883.
+1749483620: New client connected from 172.18.0.1:51488 as auto-4BDD9FA7-BC3B-9B7E-CB84-B5A5F2F4B360 (p2, c1, k60, u'ricopol').
+1749483690: Client auto-4BDD9FA7-BC3B-9B7E-CB84-B5A5F2F4B360 disconnected.
+1749483988: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749484288: Client ESP32Client has exceeded timeout, disconnecting.
+1749484296: Client auto-20624A1E-55B9-F881-C2B2-8ED44ADEB213 closed its connection.
+1749485789: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749487590: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749489391: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749491192: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749492993: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749494794: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749496595: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749502700: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749504501: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749506302: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749523159: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749538390: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749540191: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749541992: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749543793: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749545422: New connection from 172.18.0.1:60836 on port 1883.
+1749545422: New client connected from 172.18.0.1:60836 as ESP32Client (p2, c1, k15, u'ricopol').
+1749545508: New connection from 172.18.0.1:47764 on port 1883.
+1749545508: New client connected from 172.18.0.1:47764 as auto-C7AA5339-FB0B-079E-EB8B-63EFDBCDE2B8 (p2, c1, k60, u'ricopol').
+1749545529: New connection from 172.18.0.1:45848 on port 1883.
+1749545529: New client connected from 172.18.0.1:45848 as auto-65FA5957-BC7C-5AE7-D309-B04242748A45 (p2, c1, k60, u'ricopol').
+1749545594: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749546204: Client auto-65FA5957-BC7C-5AE7-D309-B04242748A45 disconnected.
+1749546408: New connection from 172.18.0.1:46920 on port 1883.
+1749546408: New client connected from 172.18.0.1:46920 as auto-DBCE38C0-C750-11D3-C700-D564D8DB6931 (p2, c1, k60, u'ricopol').
+1749547083: Client auto-DBCE38C0-C750-11D3-C700-D564D8DB6931 disconnected.
+1749547395: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749547537: Client ESP32Client has exceeded timeout, disconnecting.
+1749549034: Client auto-C7AA5339-FB0B-079E-EB8B-63EFDBCDE2B8 disconnected.
+1749549196: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749550997: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749561571: mosquitto version 2.0.21 starting
+1749561571: Config loaded from /mosquitto/config/mosquitto.conf.
+1749561571: Warning: File /mosquitto/config/pwfile has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/pwfile`.
+1749561571: Opening ipv4 listen socket on port 1883.
+1749561571: Opening ipv6 listen socket on port 1883.
+1749561571: mosquitto version 2.0.21 running
+1749561574: New connection from 172.18.0.1:37908 on port 1883.
+1749561574: New client connected from 172.18.0.1:37908 as ESP32Client (p2, c1, k15, u'ricopol').
+1749562637: Client ESP32Client has exceeded timeout, disconnecting.
+1749563372: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749565173: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749568807: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749570608: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749572409: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749574210: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749576011: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749577812: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749579613: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749581414: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749584471: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749586272: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749588073: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749593387: mosquitto version 2.0.21 starting
+1749593387: Config loaded from /mosquitto/config/mosquitto.conf.
+1749593387: Warning: File /mosquitto/config/pwfile has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/pwfile`.
+1749593387: Opening ipv4 listen socket on port 1883.
+1749593387: Opening ipv6 listen socket on port 1883.
+1749593387: mosquitto version 2.0.21 running
+1749593449: New connection from 172.18.0.1:33912 on port 1883.
+1749593449: New client connected from 172.18.0.1:33912 as LoRaBridge (p2, c1, k15, u'ricopol').
+1749593560: Client LoRaBridge has exceeded timeout, disconnecting.
+1749593618: New connection from 172.18.0.1:44518 on port 1883.
+1749593618: New client connected from 172.18.0.1:44518 as LoRaBridge (p2, c1, k15, u'ricopol').
+1749593715: Client LoRaBridge has exceeded timeout, disconnecting.
+1749593716: New connection from 172.18.0.1:46746 on port 1883.
+1749593716: New client connected from 172.18.0.1:46746 as LoRaBridge (p2, c1, k15, u'ricopol').
+1749593832: Client LoRaBridge has exceeded timeout, disconnecting.
+1749595189: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749596990: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749605915: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749624327: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749626128: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749630589: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749632409: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749634210: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749639169: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749656103: mosquitto version 2.0.21 starting
+1749656103: Config loaded from /mosquitto/config/mosquitto.conf.
+1749656103: Warning: File /mosquitto/config/pwfile has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/pwfile`.
+1749656103: Opening ipv4 listen socket on port 1883.
+1749656103: Opening ipv6 listen socket on port 1883.
+1749656103: mosquitto version 2.0.21 running
+1749656503: New connection from 172.18.0.1:38538 on port 1883.
+1749656503: New client connected from 172.18.0.1:38538 as LoRaBridge (p2, c1, k15, u'ricopol').
+1749656900: New connection from 172.18.0.1:44414 on port 1883.
+1749656900: New client connected from 172.18.0.1:44414 as auto-DA1275E5-5A04-B3D8-5D3D-A329F69A880B (p2, c1, k60, u'ricopol').
+1749656973: New connection from 172.18.0.1:34110 on port 1883.
+1749656973: New client connected from 172.18.0.1:34110 as auto-5F2CB900-5C1E-3EF1-5E74-1B7170F78942 (p2, c1, k60, u'ricopol').
+1749656993: Client auto-5F2CB900-5C1E-3EF1-5E74-1B7170F78942 disconnected.
+1749657269: Client auto-DA1275E5-5A04-B3D8-5D3D-A329F69A880B closed its connection.
+1749657269: Client LoRaBridge closed its connection.
+1749657905: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749658373: New connection from 172.18.0.1:38574 on port 1883.
+1749658373: New client connected from 172.18.0.1:38574 as LoRaBridge (p2, c1, k15, u'ricopol').
+1749658373: New connection from 172.18.0.1:38582 on port 1883.
+1749658373: New client connected from 172.18.0.1:38582 as auto-D50CE09C-F417-41CB-6020-0ACEBD874903 (p2, c1, k60, u'ricopol').
+1749658425: New connection from 172.18.0.1:36820 on port 1883.
+1749658425: New client connected from 172.18.0.1:36820 as auto-F491AD58-F09E-A28E-6BD6-D75C549C0041 (p2, c1, k60, u'ricopol').
+1749658533: Client auto-F491AD58-F09E-A28E-6BD6-D75C549C0041 closed its connection.
+1749658540: New connection from 172.18.0.1:42426 on port 1883.
+1749658540: New client connected from 172.18.0.1:42426 as auto-B3FC3B50-0397-2B7D-3DD2-E2F7E78AB6BE (p2, c1, k60, u'ricopol').
+1749659706: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749661407: Client LoRaBridge has exceeded timeout, disconnecting.
+1749661412: New connection from 172.18.0.1:38356 on port 1883.
+1749661412: New client connected from 172.18.0.1:38356 as LoRaBridge (p2, c1, k15, u'ricopol').
+1749661507: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749661620: New connection from 172.18.0.1:56032 on port 1883.
+1749661620: Client LoRaBridge already connected, closing old connection.
+1749661620: New client connected from 172.18.0.1:56032 as LoRaBridge (p2, c1, k15, u'ricopol').
+1749661692: New connection from 172.18.0.1:53356 on port 1883.
+1749661692: Client LoRaBridge already connected, closing old connection.
+1749661692: New client connected from 172.18.0.1:53356 as LoRaBridge (p2, c1, k15, u'ricopol').
+1749661767: Client LoRaBridge has exceeded timeout, disconnecting.
+1749661826: Client auto-D50CE09C-F417-41CB-6020-0ACEBD874903 closed its connection.
+1749661826: Client auto-B3FC3B50-0397-2B7D-3DD2-E2F7E78AB6BE closed its connection.
+1749663308: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749665109: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749666910: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749670491: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749673819: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749675620: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749677421: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749679222: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749680089: New connection from 172.18.0.1:46014 on port 1883.
+1749680089: New client connected from 172.18.0.1:46014 as LoRaBridge (p2, c1, k15, u'ricopol').
+1749680376: New connection from 172.18.0.1:35958 on port 1883.
+1749680376: Client LoRaBridge already connected, closing old connection.
+1749680376: New client connected from 172.18.0.1:35958 as LoRaBridge (p2, c1, k15, u'ricopol').
+1749680490: New connection from 172.18.0.1:34786 on port 1883.
+1749680490: Client LoRaBridge already connected, closing old connection.
+1749680490: New client connected from 172.18.0.1:34786 as LoRaBridge (p2, c1, k15, u'ricopol').
+1749681023: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749681069: Client LoRaBridge has exceeded timeout, disconnecting.
+1749681069: New connection from 172.18.0.1:60828 on port 1883.
+1749681069: New client connected from 172.18.0.1:60828 as LoRaBridge (p2, c1, k15, u'ricopol').
+1749681392: Client LoRaBridge has exceeded timeout, disconnecting.
+1749681401: New connection from 172.18.0.1:58342 on port 1883.
+1749681401: New client connected from 172.18.0.1:58342 as LoRaBridge (p2, c1, k15, u'ricopol').
+1749681663: New connection from 172.18.0.1:34058 on port 1883.
+1749681663: Client LoRaBridge already connected, closing old connection.
+1749681663: New client connected from 172.18.0.1:34058 as LoRaBridge (p2, c1, k15, u'ricopol').
+1749681833: New connection from 172.18.0.1:39272 on port 1883.
+1749681833: Client LoRaBridge already connected, closing old connection.
+1749681833: New client connected from 172.18.0.1:39272 as LoRaBridge (p2, c1, k15, u'ricopol').
+1749682244: New connection from 172.18.0.1:42846 on port 1883.
+1749682244: Client LoRaBridge already connected, closing old connection.
+1749682244: New client connected from 172.18.0.1:42846 as LoRaBridge (p2, c1, k15, u'ricopol').
+1749682824: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749683164: Client LoRaBridge has exceeded timeout, disconnecting.
+1749684726: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749714052: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1749715853: Saving in-memory database to /mosquitto/data//mosquitto.db.
