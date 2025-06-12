@@ -1,7 +1,7 @@
 #include <WiFi.h>
 #include <PubSubClient.h>
 #include <DHT.h>
-
+ 
 #define DHTPIN 17
 #define DHTTYPE DHT11
 DHT dht(DHTPIN, DHTTYPE);
